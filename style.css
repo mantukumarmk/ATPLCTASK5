@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+nav {
+  background-color:#F8CA75;
+  padding: 10px;
+ 
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  margin: 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #00bcd4;
+}
+
+header {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+section {
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 8px);
+}
+.about{
+	background-image:url("bg2.jpg");
+	background-size:cover;
+}
+.profile {
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 20px;
+}
+.academic{
+background-image:url("bg3.jpg");
+}
+.indx{
+background-image:url("bg1.jpg");
+}
